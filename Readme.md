@@ -130,4 +130,14 @@ Changes to be committed:
 
 PC@PC-IVAN MINGW64 ~/git-course (master)
 
-- Pronto tudo certo para comitar 
+- Pronto tudo certo para comitar
+- Vamos dar o commit
+PC@PC-IVAN MINGW64 ~/git-course (master)
+$ git commit -m "Adicionando o arquivo Readme.rd"
+[master (root-commit) ebbf146] Adicionando o arquivo Readme.rd
+ 1 file changed, 133 insertions(+)
+ create mode 100644 Readme.md
+
+- O commit (comando para comitar, efetivar a versão); 
+    -m (comando para inserir uma mensagem de commit)
+    [master (root-commit) ebbf146] - o código único a diretia é o número da versão
