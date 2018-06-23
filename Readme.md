@@ -141,3 +141,17 @@ $ git commit -m "Adicionando o arquivo Readme.rd"
 - O commit (comando para comitar, efetivar a versão); 
     -m (comando para inserir uma mensagem de commit)
     [master (root-commit) ebbf146] - o código único a diretia é o número da versão
+    
+PC@PC-IVAN MINGW64 ~/git-course (master)
+$ git status
+On branch master
+nothing to commit, working tree clean
+
+- Verifique que após o commit, não há mais nenhum arquivo para ser processado
+
+PC@PC-IVAN MINGW64 ~/git-course (master)
+$ git status
+On branch master
+nothing to commit, working tree clean
+
+- Observe que após o commite, não há mais arquivos a serem processados
